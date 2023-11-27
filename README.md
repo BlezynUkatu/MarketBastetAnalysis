@@ -1,2 +1,21 @@
-# MarketBastetAnalysis
-We're diving deep into the market world, using cool data tricks in retail and online shopping. Our goal? To figure out which products people love buying together. It's like peeking into the shopping carts of our customers to see their favorite combos!
+## Market Basket Analysis
+
+### Objective: Analyzing a retail store's data to identify commonly co-purchased products. This information will assist shopkeepers in organizing products within the physical store for optimal customer convenience.
+
+### Data
+The dataset contains three (3) columns, namely;
+
+- Member_id: A unique identifier used for customers
+- Date: Date of purchase
+- item description: name of item purchased
+
+### Algorithm used: Apriori algorithm
+
+### Results and insights
+
+From the results:
+
+- other vegetables ---- Frankfurter
+- soda ---- sausage
+- yogurt ---- sausage
+
