@@ -1,15 +1,15 @@
 # MARKET-BASKET-ANALYSIS-FOR-E-COMMERCE
-This project covers a strategic data mining technique used by retailers to enhance sales by gaining a deeper understanding of customer purchasing patterns
+The project covers a strategic data mining technique used by retailers to enhance sales by gaining a deeper understanding of customer purchasing patterns
 
 This method entails the examination of substantial datasets, such as historical purchase records, in order to unveil inherent product groupings and identify items that tend to be bought together. 
 
-## INTERPRETATION AND INSIGHT
+## INTERPRETATION AND INSIGHT OF THE MARKET ANALYSIS:
 
 Dataset Information:
 38,765 transaction records were initially available.
 759 duplicates were identified and removed, resulting in 38,006 transaction records.
 
-Algorithms Used:
+The Algorithms Used:
 Apriori algorithm and FP-growth were implemented for association rule mining.
 
 Top 10 Frequent Items:
